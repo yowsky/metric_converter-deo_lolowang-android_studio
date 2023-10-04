@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Metric Converter</string>
+    <string name="masukkan_nilai_awal">Masukkan Nilai Awal</string>
+    <string name="pilih_metrik">Pilih Metrik</string>
+    <string name="ke">Ke:</string>
+    <string name="pilih_satuan">Pilih Satuan</string>
+    <string name="dari">Dari:</string>
+
+    <string-array name="daftar_metrik">
+        <item>Panjang</item>
+        <item>Massa</item>
+        <item>Waktu</item>
+        <item>Arus Listrik</item>
+        <item>Suhu</item>
+        <item>Intensitas Cahaya</item>
+        <item>Jumlah Zat</item>
+    </string-array>
+
+    <string-array name="select_panjang_item">
+        <item>Meter(m)</item>
+        <item>Kilometer(km)</item>
+    </string-array>
+
+    <string-array name="select_massa_item">
+        <item>Gram(g)</item>
+        <item>Kilogram(kg)</item>
+    </string-array>
+
+    <string-array name="select_waktu_item">
+        <item>Sekon(s)</item>
+        <item>Menit(min)</item>
+    </string-array>
+
+    <string-array name="select_arus_listrik_item">
+        <item>Ampere(A)</item>
+        <item>Nanoampere(nA)</item>
+    </string-array>
+
+    <string-array name="select_intensitas_cahaya_item">
+        <item>Candela(cd)</item>
+        <item>Lumen(lm)</item>
+    </string-array>
+
+    <string-array name="select_jumlah_zat_item">
+        <item>Mole(mol)</item>
+        <item>Kilomole(kmol)</item>
+    </string-array>
+
+    <string-array name="select_suhu_item">
+        <item>Celcius(C)</item>
+        <item>Fahrenheit(F)</item>
+    </string-array>
+</resources>
