@@ -15,6 +15,9 @@ Pengguna dapat membuka aplikasi Metric Converter di perangkat Android. Berikut l
 5. Menampilkan hasil konversi.
 
 ## Demo Aplikasi
+Mohon menunggu sebentar, file gif sedang diproses
+
+![Demo-apk-metric-converter-android-studio](https://github.com/yowsky/metric_converter-deo_lolowang-android_studio/assets/130836095/a5742303-afe1-483c-9616-5b83a1f23b5b)
 
 ## Link Aplikasi
 https://drive.google.com/drive/folders/16gfdpBEGNgkRCdn9x7quVlfGfHle8Hmn?usp=sharing
